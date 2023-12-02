@@ -1,3 +1,3 @@
 # Module-11-Software-Documentation-Assignment
 
-Javadoc Documentation Within Each Class.
+Javadoc Documentation In Each Class.
