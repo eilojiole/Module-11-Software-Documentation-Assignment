@@ -57,7 +57,7 @@ public class Main extends Application {
 	// This Method Serves As The Construction Of Our Primary Stage.
 	
 	/**
-	 * This Overide Method Will Assist Us In The Implementation and Construction Of Our Primary Stage.
+	 * This Override Method Will Assist Us In The Implementation and Construction Of Our Primary Stage.
 	 * @param primaryStage The Main Features and Composition Of Our Primary Stage.
 	 */
 	
