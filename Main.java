@@ -275,7 +275,7 @@ public class Main extends Application {
 			leftArea.getChildren().addAll(buttons);
 			leftArea.setSpacing(10);
 			leftArea.setPadding(new Insets(10));
-			leftArea.setAlignment(javafx.geometry.Pos.CENTER);
+			leftArea.setAlignment(javafx.geometry.Pos.TOP_CENTER);
 			rightArea.setAlignment(javafx.geometry.Pos.CENTER);
 
 			TableColumn<Book, Number> barcodeColumn = new TableColumn<>("Barcode");
